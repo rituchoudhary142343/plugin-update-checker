@@ -7,8 +7,7 @@ From the users' perspective, it works just like with plugins and themes hosted o
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
+**Table of Content
 - [Getting Started](#getting-started)
   - [Self-hosted Plugins and Themes](#self-hosted-plugins-and-themes)
     - [How to Release an Update](#how-to-release-an-update)
